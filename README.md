@@ -50,6 +50,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+<div>
 https://github-readme-streak-stats.herokuapp.com/?user=phinatech
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phinatech&type=png&background=45%2CA6EB43%2CA9EBAA&border=EB5454&stroke=EB5454&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
+</div>
 
